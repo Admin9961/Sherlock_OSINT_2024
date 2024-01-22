@@ -1,4 +1,5 @@
 Spoiler: to run do "python osint.py"
+
 Sherlock, un tool popolare per stalkerare enumerare i profili social delle persone, è uno strumento ben realizzato soprattutto dal punto di vista estetico, e per tale ragione ha riscosso una discreta fama.
 
 Purtroppo viviamo in un mondo dove l'estetica conta più della sostanza (ed è anche grazie a questo purtroppo che molti cialtroni ottengono quello che vogliono, senza offesa per il creatore di Sherlock).
